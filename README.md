@@ -60,7 +60,7 @@ Both drive a 1.28" round GC9A01A SPI LCD (240×240).
 
 ## Case
 
-![3D-printed case](images/IMG_8464.JPG)
+![3D-printed case](IMG_8464.JPG)
 
 - `RadarCase-Shell2.stl` and `RadarCase-RearCover.stl` are a 3D-printable
   enclosure sized for the ESP32-C3 build: sloped display face, corner mounting
@@ -77,8 +77,9 @@ Both drive a 1.28" round GC9A01A SPI LCD (240×240).
 - **Raspberry Pi:** set your location directly in `adsb_radar_core.py`:
 
   ```python
-  HOME_LAT = 38.80579292402006
-  HOME_LON = -121.11277380796557
+  HOME_LAT = 0.00
+  HOME_LON = 0.00cd 
+  
   ```
 
 ## Roadmap
