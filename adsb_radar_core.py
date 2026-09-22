@@ -11,8 +11,8 @@ import urllib.request
 import json
 
 # ---- CONFIGURE YOUR LOCATION HERE ----
-HOME_LAT = 38.80579292402006   # <-- replace with your latitude
-HOME_LON = -121.11277380796557  # <-- replace with your longitude
+HOME_LAT =    # <-- replace with your latitude
+HOME_LON =    # <-- replace with your longitude
 RADIUS_NM = 10       # tracking radius in nautical miles
 
 # 38.80579292402006, -121.11277380796557
