@@ -15,7 +15,6 @@ HOME_LAT =    # <-- replace with your latitude
 HOME_LON =    # <-- replace with your longitude
 RADIUS_NM = 10       # tracking radius in nautical miles
 
-# 38.80579292402006, -121.11277380796557
 
 # adsb.lol public API - no key required
 # Pattern: https://api.adsb.lol/v2/point/{lat}/{lon}/{radius_nm}
